@@ -9,7 +9,7 @@
 //システム&サービスコード定義
 #define COMMAND_TIMEOUT           	400
 #define POLLING_INTERVAL          	500
-#define RCS620S_MAX_CARD_RESPONSE_LEN 30
+#define RCS620S_MAX_CARD_RESPONSE_LEN   30
 #define CYBERNE_SYSTEM_CODE       	0x0003
 #define COMMON_SYSTEM_CODE        	0xFE00
 #define PASSNET_SERVICE_CODE      	0x090F
